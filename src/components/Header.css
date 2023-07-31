@@ -1,0 +1,55 @@
+body {
+    line-height: 1em;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: 900;
+}
+
+.header {
+    padding-left: 2em;
+}
+
+.frontend-text {
+    background-color: #deb11c;
+}
+
+.icon-header {
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 2.5vw;
+    padding-right: 1em;
+}
+
+@media (max-width: 1200px) {
+    .icon-header {
+        width: 4vw;
+        padding-right: 1em;
+    }
+}
+
+@media (max-width: 700px) {
+    h1 {
+        font-size: 3em;
+        font-weight: 900;
+    }
+
+    h2 {
+        font-size: 2em;
+    }
+}
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+        font-weight: 900;
+        line-height: 1em;
+    }
+
+    h2 {
+        font-size: 1em;
+        line-height: 2em;
+    }
+}

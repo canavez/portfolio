@@ -1,0 +1,17 @@
+.profile-container {
+    display: flex;
+}
+
+.profile {
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    width: 15vw;
+    transition: 0.2s ease-out;
+}
+
+@media (max-width: 700px) {
+    .profile {
+        width: 25vw;
+    }
+}
