@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e242ce0a.css",
+    "main.js": "/portfolio/static/js/main.9ac2ff94.js",
+    "static/js/787.af9c3aa2.chunk.js": "/portfolio/static/js/787.af9c3aa2.chunk.js",
+    "static/media/aprova-site.png": "/portfolio/static/media/aprova-site.8ea42fcabbd5a306640a.png",
+    "static/media/profile.png": "/portfolio/static/media/profile.2cdbaf3f960da0246dbb.png",
+    "static/media/valorant-site.png": "/portfolio/static/media/valorant-site.38ea1ca6b69ae0c84f61.png",
+    "static/media/overwatch-site.png": "/portfolio/static/media/overwatch-site.b3da61545e739bb7db50.png",
+    "static/media/react-icon.png": "/portfolio/static/media/react-icon.40e5491c2ccd72e69e98.png",
+    "static/media/figma-icon.png": "/portfolio/static/media/figma-icon.24c69082f71cf7b8c289.png",
+    "static/media/css-icon.png": "/portfolio/static/media/css-icon.02194c084754d1bc5650.png",
+    "static/media/html-icon.png": "/portfolio/static/media/html-icon.15a6270ebba537e900b1.png",
+    "static/media/js-icon.png": "/portfolio/static/media/js-icon.37e0d6f6418ff67ff737.png",
+    "index.html": "/portfolio/index.html",
+    "main.e242ce0a.css.map": "/portfolio/static/css/main.e242ce0a.css.map",
+    "main.9ac2ff94.js.map": "/portfolio/static/js/main.9ac2ff94.js.map",
+    "787.af9c3aa2.chunk.js.map": "/portfolio/static/js/787.af9c3aa2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e242ce0a.css",
+    "static/js/main.9ac2ff94.js"
+  ]
+}
